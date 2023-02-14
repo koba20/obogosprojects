@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "318876475263",
+    "project_id": "real-estate-app-564a4",
+    "storage_bucket": "real-estate-app-564a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318876475263:android:13ff12c3e8f825f496c44a",
+        "android_client_info": {
+          "package_name": "com.example.matterport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318876475263-pc206mnj3tjsi2fghrajk9hkjijtoie3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRknJ9emzXoqJdMvh3Ant6NSCUyqNDVgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318876475263-pc206mnj3tjsi2fghrajk9hkjijtoie3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318876475263-uvq4j3f2fkcqtf8b7n5ph32qiv3p1b5f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realEstate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318876475263:android:d9ae75f435af4e2396c44a",
+        "android_client_info": {
+          "package_name": "com.example.real_estate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318876475263-pc206mnj3tjsi2fghrajk9hkjijtoie3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRknJ9emzXoqJdMvh3Ant6NSCUyqNDVgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318876475263-pc206mnj3tjsi2fghrajk9hkjijtoie3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318876475263-uvq4j3f2fkcqtf8b7n5ph32qiv3p1b5f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realEstate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
